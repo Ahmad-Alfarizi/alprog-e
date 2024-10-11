@@ -1,0 +1,29 @@
+================= SOAL ======================
+Rangkum natural language dan machine language
+=============================================
+
+* Natural Language Processing (NLP) adalah
+    cabang dari kecerdasan buatan (AI)
+    yang memungkinkan komputer untuk memahami, menafsirkan, dan merespons bahasa manusia.
+
+
+*Machine Language (Bahasa Mesin)
+    Machine Language, atau bahasa mesin, 
+    adalah bahasa pemrograman tingkat rendah yang digunakan oleh komputer
+    untuk menjalankan instruksi secara langsung. 
+    Bahasa ini terdiri dari kode biner (0 dan 1) yang dapat dipahami oleh prosesor komputer.
+    Machine Language adalah dasar dari semua bahasa pemrograman lainnya dan sangat penting
+    untuk operasi perangkat keras komputer
+
+
+* Sumber :
+    1.ibm.com
+    2.blog.bitlabs.id
+    3.megabagus.id
+    4.djkn.kemenkeu.go.id
+    5.pintu.co.id
+
+
+
+
+

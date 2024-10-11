@@ -1,0 +1,38 @@
+=================== SOAL ========================
+ Buatlah notasi kalimat deskriptif pada algoritma
+=================================================
+
+
+Case Study : Aplikasi TodoList
+
+Algoritma Aplikasi To-Do List
+Judul: Algoritma Menambahkan Tugas Baru ke To-Do List
+
+Deklarasi:
+
+* tugas: string (nama tugas)
+* prioritas: integer (tingkat prioritas tugas)
+* tanggal: date (tanggal jatuh tempo tugas)
+* toDoList: array of tasks (daftar tugas)
+
+Deskripsi:
+
+1.Baca input tugas dari pengguna.
+2.Baca input prioritas dari pengguna.
+3.Baca input tanggal dari pengguna.
+4.Buat objek tugas baru dengan tugas, prioritas, dan tanggal.
+5.Tambahkan objek tugas baru ke dalam toDoList.
+6.Tampilkan pesan konfirmasi bahwa tugas telah berhasil ditambahkan.
+Selesai.
+
+
+
+
+* Sumber :
+
+    1.kumparan.com
+    2.blog.mycoding.id
+    3.lmsspada.kemdikbud.go.id
+    4.badoystudio.com
+    5.niagahoster.co.id
+    6.tirto.id
